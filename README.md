@@ -8,4 +8,3 @@ This repository presents a constructivist framework for modeling time-reversal c
 
 ## License
 This project is licensed under the Apache License 2.0.
-# constructive_time_reversal_perception_model
